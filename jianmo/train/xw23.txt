@@ -1,0 +1,34 @@
+﻿Chinese and American researchers developed a data-driven simulator that could improve self-driving vehicle safety before road testing. 
+
+The study published on Wednesday in the journal Science Robotics showed that the new photo-realistic system provided a richer, more authentic simulation than current systems that use game engines or high-fidelity computer graphics. 
+
+Scientists from China's Baidu Research, the University of Hong Kong and US University of Maryland invented the system called Augmented Autonomous Driving Simulation (AADS) that could make self-driving technology easier to evaluate in the lab and ensure more reliable safety before expensive road testing. 
+
+In the current simulator technology, the perception module of the self-driving car receives input from computer-generated imagery and mathematically modeled movement patterns for pedestrians, bicycles, and other cars. 
+
+It is a relatively crude representation of the real world and also expensive and time-consuming, according to the study. 
+
+The new system combines photos, videos, and lidar point clouds with real-world trajectory data for pedestrians, bicycles and other cars. Those trajectories can be used to predict the driving behavior and future positions of other vehicles or pedestrians on the road for safer navigation. 
+
+"The way humans drive is not easy to capture by mathematical models and laws of physics. So we extracted data about real trajectories from all the video we had available, and we modeled driving behaviors using social science methodologies," said the paper's coauthor Dinesh Manocha, a computer scientist at the University of Maryland. 
+
+"With a simple scan, AADS can quickly and fully autonomously produce realistic car flows and related data without manual annotation. The cost is quite low," the paper's coauthor Li Wei with Baidu Research told Xinhua. 
+
+To eliminate blind spots in real-world images, the researchers isolated the components in a street scene, making them as individual elements that can be synthesized to create a multitude of photo-realistic driving scenario. 
+
+With AADS, vehicles and pedestrians can be lifted from one environment and placed into another with the proper lighting and movement patterns, according to the study. 
+
+"Because of the realism of the simulator, we can better evaluate navigation strategies of an autonomous driving system," said Manocha.
+Chinese scientists developed robotic system inspired by a colony of ants that can collectively achieve complex tasks like gathering large prey. 
+
+The study published on Wednesday in the journal Science Robotics described the nanorobots fleet that have demonstrated potential for in-body diagnosis and treatment at the cellular or even molecular level. 
+
+Xie Hui, a professor of Harbin Institute of Technology, who led the study, told Xinhua that a single robot is two micrometers in its diameter, 40 times smaller than a hair, thus capable of running through blood capillaries. 
+
+The peanut-shaped iron microrobots can be energized by an alternating magnetic field, offering high flexibility to collectively perform multiple tasks in a confined environment, according to the study. 
+
+By tuning the frequency of the rotating magnetic field and its polarization in three-dimensional space, the researchers obtained a series of well-controlled, fast, and reversible transformations, Xie said. 
+
+Those formations include liquid, chain, vortex and ribbon. They can form narrow paths or channels to deliver heavy loads beyond a single robot's capability. 
+
+Xie said the robotic swarm might be used to identify and attack pathological cells or even stay inside the body for health monitoring in the future, providing a new tool for early-stage detection and treatment.

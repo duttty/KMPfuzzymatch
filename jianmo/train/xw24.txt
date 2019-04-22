@@ -1,0 +1,50 @@
+﻿Chinese tech company Huawei on Sunday its their Mate X, a foldable 5G ready smartphone, at an event attended by around 3,000 people held on the eve of the 2019 Mobile World Congress (MWC2019) which opens here on Monday. 
+
+The Mate X has a 6.6-inch screen, which can be opened out into an eight-inch OLED screen to allow the user to read or view videos. 
+
+"The Huawei Mate X is a step into unknown territory," confirmed Richard Yu, CEO of Huawei's Consumer Business Group. 
+
+He said the phone was a "masterwork of engineering" and that it folded in an "almost perfect" manner, while its 5G capacity would help "change the world that we currently know". 
+
+The Mate X has a Balong 5000 processor, 8 GB of RAM and 512 GB internal memory, which Yu commented would make it the "reference point for the 5G smartphones still to come". 
+
+Other points in favor of Huawei's new smartphone are its lightness and the fact that even when folded it is only 11 millimeters thick. 
+
+Meanwhile Yu highlighted that the Mate X's two batteries give it 4,500 milliamps per hour (mAh) which is "well above that of its competitors", and these batteries can be recharged in just over half an hour. 
+
+It will retail for 2,299 euros (2,607 US dollars) and is expected to be available to the public "by the summer". 
+
+Huawei presented several other products at the same event, including a new range of laptops: such as the MateBook X Pro, which has a 13.9, 3K screen, as well as MateBooks with 13 and 14 inch screens. 
+
+Finally, Huawei showcased its 5G CPE Pro mobile router, which is aimed at taking 5G connectivity into the home allowing for the transmission of 8K video in real time.
+South China's technological powerhouse Shenzhen will launch pilot project for 5G commercial use in 2019, local authorities have said. 
+
+Shenzhen will install 1,955 5G base stations this year, according to the city's bureau of industry and information technology. 
+
+The city is speeding up construction of next-generation information infrastructure and deployment of the Internet of Things and smart and connected vehicles. 
+
+Chinese cities are adopting the 5G network to meet public demand. 
+
+In late January, the Guangzhou Baiyun International Airport in south China's Guangdong Province launched a 5G base station. An indoor 5G network will be installed in the Shanghai Hongqiao Railway Station by the end of this year.
+
+Chinese and American researchers developed a data-driven simulator that could improve self-driving vehicle safety before road testing. 
+
+The study published on Wednesday in the journal Science Robotics showed that the new photo-realistic system provided a richer, more authentic simulation than current systems that use game engines or high-fidelity computer graphics. 
+
+Scientists from China's Baidu Research, the University of Hong Kong and US University of Maryland invented the system called Augmented Autonomous Driving Simulation (AADS) that could make self-driving technology easier to evaluate in the lab and ensure more reliable safety before expensive road testing. 
+
+In the current simulator technology, the perception module of the self-driving car receives input from computer-generated imagery and mathematically modeled movement patterns for pedestrians, bicycles, and other cars. 
+
+It is a relatively crude representation of the real world and also expensive and time-consuming, according to the study. 
+
+The new system combines photos, videos, and lidar point clouds with real-world trajectory data for pedestrians, bicycles and other cars. Those trajectories can be used to predict the driving behavior and future positions of other vehicles or pedestrians on the road for safer navigation. 
+
+"The way humans drive is not easy to capture by mathematical models and laws of physics. So we extracted data about real trajectories from all the video we had available, and we modeled driving behaviors using social science methodologies," said the paper's coauthor Dinesh Manocha, a computer scientist at the University of Maryland. 
+
+"With a simple scan, AADS can quickly and fully autonomously produce realistic car flows and related data without manual annotation. The cost is quite low," the paper's coauthor Li Wei with Baidu Research told Xinhua. 
+
+To eliminate blind spots in real-world images, the researchers isolated the components in a street scene, making them as individual elements that can be synthesized to create a multitude of photo-realistic driving scenario. 
+
+With AADS, vehicles and pedestrians can be lifted from one environment and placed into another with the proper lighting and movement patterns, according to the study. 
+
+"Because of the realism of the simulator, we can better evaluate navigation strategies of an autonomous driving system," said Manocha.

@@ -1,0 +1,35 @@
+﻿Chinese scientists developed robotic system inspired by a colony of ants that can collectively achieve complex tasks like gathering large prey. 
+
+The study published on Wednesday in the journal Science Robotics described the nanorobots fleet that have demonstrated potential for in-body diagnosis and treatment at the cellular or even molecular level. 
+
+Xie Hui, a professor of Harbin Institute of Technology, who led the study, told Xinhua that a single robot is two micrometers in its diameter, 40 times smaller than a hair, thus capable of running through blood capillaries. 
+
+The peanut-shaped iron microrobots can be energized by an alternating magnetic field, offering high flexibility to collectively perform multiple tasks in a confined environment, according to the study. 
+
+By tuning the frequency of the rotating magnetic field and its polarization in three-dimensional space, the researchers obtained a series of well-controlled, fast, and reversible transformations, Xie said. 
+
+Those formations include liquid, chain, vortex and ribbon. They can form narrow paths or channels to deliver heavy loads beyond a single robot's capability. 
+
+Xie said the robotic swarm might be used to identify and attack pathological cells or even stay inside the body for health monitoring in the future, providing a new tool for early-stage detection and treatment.
+
+China's internet advertising market expanded to the size of 371.7 billion yuan (about 55.48 billion US dollars) last year, up 25.7 percent year on year, according to the latest statistical report on internet development. 
+
+Internet advertising via mobile devices commanded a market share of 70 percent, which is expected to grow higher in the future, said the report, released by China Internet Network Information Center. 
+
+In-feed ads, which will be shown naturally when a user scrolls through the feed, for instance, among a list of news articles or listings, has become a new growth area for the advertising industry, marked by increasing popularity and continuous growth in market share. 
+
+Revenues of advertising on short video platforms registered a notable rise in 2018, with the value of such platforms, in terms of advertising, further recognized, according to the report.
+
+Doctors in Beijing and Shenzhen, about 2,000 kilometers apart, cooperated in a surgical operation using 5G technology, the first multi-center remote cooperative surgery in the world, according to domestic media reports. 
+
+Seated in a 5G center located in Beijing, Dong Jiahong, executive dean of Beijing Tsinghua Changgeng Hospital, did pre-surgery discussions and provided remote technical guidance to doctors in a Shenzhen hospital who actually did the surgery. 
+
+Dong's real-time participation in the surgery was realized by 5G and Mixed Reality technologies, according to the reports. The 5G center and technologies were provided by Chinese telecom operator China Unicom.
+
+China Unicom has not responded to an interview request as of press time. 
+
+This remote cooperation operation made with the help of 5G technologies is an example of how the commercialization of 5G technologies is speeding up in China. 
+
+According to a report on news portal yicai.com, China is expected to start 5G pre-commercialization in 2019 and will roll out large-scale 5G commercialization in 2020. 
+
+Major Chinese telecom operators are investing large sums in 5G construction. A yicai.com report noted that China Unicom is planning to invest about 6 billion yuan ($894 million) to 8 billion yuan in 5G in 2019. China Mobile also signed a 1 billion euro contract with Nokia in 2018 to invest in 5G. 
